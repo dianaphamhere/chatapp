@@ -1,6 +1,5 @@
 // Make connection
-const PORT = process.env.PORT || 3000;
-var socket = io.connect(PORT);
+var socket = io();
 
 // Query DOM
 var message = document.getElementById('message');

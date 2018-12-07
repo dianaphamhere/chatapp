@@ -14,4 +14,4 @@ Okay, TBH, I got the stuff working, but I feel a bit unsatisfied? I've been tryi
 
 I decided to try to learn this stuff because I'm going to a hackathon this weekend and I really want to be able to create a web app. I haven't made one in years. I haven't been to a hackathon in over a year or two also so this is a big deal to me. So I decided to trudge on through and try to get this going and again, it worked, but meh?? I have a ways to go.
 
-Also, I totally didn't do version control while I was working on this project. I think I was afraid of breaking stuff since I wasn't familiar with any of the Node stuff. Iono. I also hadn't used the command line in awhile. AHhh! 12/8/18
+Also, I totally didn't do version control while I was working on this project. I think I was afraid of breaking stuff since I wasn't familiar with any of the Node stuff. Iono. I also hadn't used the command line in awhile. AHhh! 12/6/18
